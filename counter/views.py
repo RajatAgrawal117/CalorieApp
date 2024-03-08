@@ -1,6 +1,6 @@
 from django.shortcuts import render
 import requests , json
-#Ub54IEjQVcN8XiJIMW3mCg==n1FIhf5hieOGsRf0
+
 # Create your views here.
 def home(request):
     if request.method == "POST":
