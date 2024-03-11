@@ -3,13 +3,7 @@
 # Django and its dependencies
 Django==3.2.12
 
-# Additional Django apps
-django-contrib-admin==3.2.12
-django-contrib-auth==3.2.12
-django-contrib-contenttypes==3.2.12
-django-contrib-sessions==3.2.12
-django-contrib-messages==3.2.12
-django-contrib-staticfiles==3.2.12
+
 
 # Third-party apps
 django-mathfilters==1.0.0
